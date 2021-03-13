@@ -1,1 +1,2 @@
-echo"test for jenlins"
+echo "test for jenlins"
+date
