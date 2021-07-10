@@ -1,2 +1,2 @@
-echo "Chnage made after Ngrok is set up >> "
+echo "Chnage made after Ngrok is set up>> "
 
